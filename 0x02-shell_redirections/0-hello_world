@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello, World \n | fmt
+lpr Hello, World \n | fmt
