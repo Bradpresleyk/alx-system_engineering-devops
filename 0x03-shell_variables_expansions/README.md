@@ -8,3 +8,4 @@ creating local variable
 creating a global variable
 printing result to variable
 dividing power by divide
+Displaying the result of BREATH to the power of LOVE
