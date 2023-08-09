@@ -1,2 +1,2 @@
 #!/bin/bash
-user="$HOSTNAME" echo "Hello $user"
+HOSTNAME="Brad" echo "Hello $HOSTNAME"
