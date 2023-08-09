@@ -3,3 +3,4 @@ echoing current user
 Adding action directory to path
 counting num of directories inside PATH
 Printing out global variables
+printing all
