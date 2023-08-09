@@ -1,2 +1,2 @@
 #!/bin/bash
-HOSTNAME="Brad" echo "Hello $HOSTNAME"
+ echo "Hello $UID"
