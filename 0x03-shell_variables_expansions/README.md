@@ -5,3 +5,4 @@ counting num of directories inside PATH
 Printing out global variables
 printing all
 creating local variable
+creating a global variable
