@@ -1,3 +1,2 @@
 #!/bin/bash
-user="Brad"
-echo "Hello $user"
+echo "Hello $EUID"
