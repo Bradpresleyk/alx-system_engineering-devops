@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE="$((128 + 1))\n" echo $TRUEKNOWLEDGE
+echo -e "$TRUEKNOWLEDGE$((128 + 1))\n"

@@ -6,3 +6,4 @@ Printing out global variables
 printing all
 creating local variable
 creating a global variable
+printing result to variable
