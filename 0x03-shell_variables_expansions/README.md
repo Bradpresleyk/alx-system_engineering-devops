@@ -7,3 +7,4 @@ printing all
 creating local variable
 creating a global variable
 printing result to variable
+dividing power by divide
