@@ -10,3 +10,4 @@ printing result to variable
 dividing power by divide
 Displaying the result of BREATH to the power of LOVE
 converting a number from binary to decimal
+printing all combinations of two letters
